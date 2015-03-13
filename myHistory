@@ -9,3 +9,32 @@
     9  git init
    10  git init
    11  history>myHistory
+   12  ls -al
+   13  git status
+   14  git add .
+   15  git status
+   16  git commit
+   17  ls -al
+   18  git status
+   19  vim hello.c
+   20  git status
+   21  git add .
+   22  git status
+   23  git commit -m "I have made a new modification to myfile"
+   24  git status
+   25  git remote add origin github.com/ajampana/myGit
+   26  git push origin master
+   27  git remote add origin github.com/ajampana/myGit.git
+   28  git remote add origin https://github.com/ajampana/myGit.git
+   29  git remote add origin https://github.com/ajampana/myGit
+   30  history
+   31  history>myHistory
+   32  git remote add origin https://github.com/ajampana/myGit
+   33  git remote add origin https://github.com/ajampana/myGi
+   34  git remote add origin https://github.com/ajampana
+   35  git remote add origin https://github.com/ajampana/myGit.git
+   36  git remote set-url origin https://github.com/ajampana/myGit.git
+   37  git remote -v
+   38  git push origin master
+   39  git push origin master
+   40  history>myHistory
