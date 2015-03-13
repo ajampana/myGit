@@ -1,0 +1,11 @@
+    1  git config --global user.name "Anil Varma Jampana"
+    2  git config --global user.email ajampana@my.okcu.edu
+    3  mkdir myFirst
+    4  cd myFirst
+    5  ls
+    6  vim hello.c
+    7  ls
+    8  clear
+    9  git init
+   10  git init
+   11  history>myHistory
