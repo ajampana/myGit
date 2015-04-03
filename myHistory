@@ -6,3 +6,37 @@
     6  pwd
     7  vim hello.c
     8  history>Myhistory
+    9  git init 
+   10  ls
+   11  ls -al
+   12  git status
+   13  git add
+   14  git add.
+   15  git add .
+   16  ls
+   17  git status
+   18  git commit
+   19  ls
+   20  git status
+   21  ls -al
+   22  vim hello.c
+   23  git status
+   24  git add .
+   25  git status
+   26  git commit 
+   27  git status
+   28  git remote add origin github.com/Deepiga/myGit
+   29  git remote add origin github.com/Deepiga/myGit.git
+   30  ls -al
+   31  git remote add origin https://github.com/Deepiga/myGit.git
+   32  git push -u origin master 
+   33  history>Myhistory
+   34  history>MyHistory
+   35  history>myHistory
+   36  history>myhistory
+   37  history>myhistory
+   38  git remote set-url origin https://github.com/Deepiga/myGit.git
+   39  git remote -v
+   40  git push origin master
+   41  history>Myhistory
+   42  history>Myhistory
